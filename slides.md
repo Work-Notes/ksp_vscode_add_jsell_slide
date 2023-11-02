@@ -33,7 +33,7 @@ transition: slide-left
   - a. 拡張機能アイコン
   - b. その他アイコン
   - c. VSIX からのインストール...
- <img class="h-70" src="/Vscode-Extensions.bmp">
+ <img class="h-70" src="/Vscode-Extensions.png">
 
 
 
