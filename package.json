@@ -6,7 +6,7 @@
     "build": "slidev build",
     "dev": "slidev --open",
     "export": "slidev export",
-    "build_github": "slidev build --base /ksp_github_account_slide"
+    "build_github": "slidev build --base /ksp_vscode_add_jsell_slide"
   },
   "dependencies": {
     "@slidev/cli": "^0.43.12",
