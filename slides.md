@@ -20,7 +20,7 @@ transition: slide-left
 
 - 下記のリンクからJava研修用ツールのオフラインインストール用ファイルをダウンロードします。
   - https://ksp-slide-documents.github.io/ksp_vscode_add_jsell_slide/JavaSelectedCodeExecutor.vsix
-
+<img class="h-70" src="/Vscode-Download.png">
 
 ---
 layout: default
@@ -29,12 +29,19 @@ transition: slide-left
 
 # Vscodeにインストール
 
-- VsCode を起動して下記の手順でクリックしていき、先ほどダウンロードしたファイルを選択
-  - a. 拡張機能アイコン
-  - b. その他アイコン
-  - c. VSIX からのインストール...
- <img class="h-70" src="/Vscode-Extensions.png">
+<ul>
+  <li>VsCode を起動して下記の手順でクリックしていき、先ほどダウンロードしたファイルを選択 
+    <ul style="float: left;">
+      <li>a. 拡張機能アイコン</li>
+      <li>b. その他アイコン</li>
+      <li>c. VSIX からのインストール… </li>
+	  <li>d. ダウンロードしたファイルを選択 </li>
+    </ul>
+    <div style="float: right;">
+	  <img class="h-78" src="/Vscode-Extensions.png">
+    </div>
 
-
+  </li>
+</ul>
 
 
