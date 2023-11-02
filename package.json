@@ -1,0 +1,17 @@
+{
+  "name": "ksp_vscode_add_jsell_slide",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export",
+    "build_github": "slidev build --base /ksp_github_account_slide"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.43.12",
+    "@slidev/theme-bricks": "^0.0.2",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest"
+  }
+}
