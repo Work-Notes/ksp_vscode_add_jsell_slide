@@ -37,7 +37,7 @@ transition: slide-left
 
 　
 
-ダウンロードができたらVisual Studio Codeを起動して拡張機能ファイル(vsix)のインストールを行います。
+ダウンロードができたらVisual Studio Codeを起動して拡張機能ファイルのインストールを行います。
 
 まずは拡張機能アイコンをクリックして、拡張機能管理の画面を表示します。
 
@@ -52,9 +52,7 @@ transition: slide-left
 
 　
 
-拡ビューとその他アクションのアイコンをクリックして、
-
-表示されたメニューからVSIXからのインストールをクリックします。
+ビューとその他アクションからVSIXからのインストールをクリックします。
 
 <img class="h-70" src="/Vscode-OpenInstallMenu.png">
 
@@ -67,9 +65,7 @@ transition: slide-left
 
 　
 
-先ほどダウンロードした拡張機能ファイル(vsix)を選択して、
-
-インストールボタンをクリックします。
+先ほどダウンロードしたファイルを選択して、インストールボタンをクリックします。
 
 <img class="h-70" src="/Vscode-InstallVSIX.png">
 
@@ -82,9 +78,9 @@ transition: slide-left
 
 　
 
-インストールが完了したら、
+インストールが完了したら、拡張機能管理の画面上に追加されます。
 
-拡張機能管理の画面上に「Java Selected Code Executor」が追加されます。
+お疲れ様でした。
 
 <img class="h-70" src="/Vscode-Complete.png">
 
