@@ -63,7 +63,7 @@ transition: slide-left
 
 先ほどダウンロードした拡張機能ファイル(vsix)を選択して、インストールボタンをクリックします。
 
-<img class="h-70" src="Vscode-InstallVSIX.png">
+<img class="h-70" src="/Vscode-InstallVSIX.png">
 
 ---
 layout: default
@@ -78,5 +78,5 @@ transition: slide-left
 
 お疲れ様でした。
 
-<img class="h-70" src="Vscode-Complete.png">
+<img class="h-70" src="/Vscode-Complete.png">
 
