@@ -18,7 +18,10 @@ transition: slide-left
 
 # インストール用ファイルのダウンロード
 
-- 本環境はVisual Studio Codeの拡張機能です。
+　
+
+本環境はVisual Studio Codeの拡張機能です。
+
 下記のリンクから拡張機能ファイル(vsix)をダウンロードします。
 
 https://ksp-slide-documents.github.io/ksp_vscode_add_jsell_slide/JavaSelectedCodeExecutor.vsix
@@ -32,7 +35,10 @@ transition: slide-left
 
 # Vscodeにインストールその１
 
-- ダウンロードができたらVisual Studio Codeを起動して拡張機能ファイル(vsix)のインストールを行います。
+　
+
+ダウンロードができたらVisual Studio Codeを起動して拡張機能ファイル(vsix)のインストールを行います。
+
 まずは拡張機能アイコンをクリックして、拡張機能管理の画面を表示します。
 
 <img class="h-70" src="/Vscode-OpenExtensionsWindow.png">
@@ -44,7 +50,10 @@ transition: slide-left
 
 # Vscodeにインストールその２
 
-- 拡ビューとその他アクションのアイコンをクリックして、
+　
+
+拡ビューとその他アクションのアイコンをクリックして、
+
 表示されたメニューからVSIXからのインストールをクリックします。
 
 <img class="h-70" src="/Vscode-OpenInstallMenu.png">
@@ -56,7 +65,10 @@ transition: slide-left
 
 # Vscodeにインストールその３
 
-- 先ほどダウンロードした拡張機能ファイル(vsix)を選択して、
+　
+
+先ほどダウンロードした拡張機能ファイル(vsix)を選択して、
+
 インストールボタンをクリックします。
 
 <img class="h-70" src="/Vscode-InstallVSIX.png">
@@ -68,7 +80,10 @@ transition: slide-left
 
 # インストール完了
 
-- インストールが完了したら、
+　
+
+インストールが完了したら、
+
 拡張機能管理の画面上に「Java Selected Code Executor」が追加されます。
 
 <img class="h-70" src="/Vscode-Complete.png">
