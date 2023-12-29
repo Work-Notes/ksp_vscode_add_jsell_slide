@@ -9,20 +9,20 @@ layout: cover
 transition: slide-left
 ---
 
-## 【VScode】Java研修用ツールの追加
+## 【Visual Studio Code】学習用の環境の追加
 
 ---
 layout: default
 transition: slide-left
 ---
 
-# インストール用ファイルのダウンロード
+# 拡張機能ファイルのダウンロード
 
 　
 
 本環境はVisual Studio Codeの拡張機能です。
 
-下記のリンクから拡張機能ファイル(vsix)をダウンロードします。
+下記のリンクから拡張機能ファイルをダウンロードします。
 
 https://ksp-slide-documents.github.io/ksp_vscode_add_jsell_slide/JavaSelectedCodeExecutor.vsix
 
@@ -33,7 +33,7 @@ layout: default
 transition: slide-left
 ---
 
-# Vscodeにインストールその１
+# Visual Studio Codeにインストールその１
 
 　
 
@@ -48,7 +48,7 @@ layout: default
 transition: slide-left
 ---
 
-# Vscodeにインストールその２
+# Visual Studio Codeにインストールその２
 
 　
 
@@ -61,7 +61,7 @@ layout: default
 transition: slide-left
 ---
 
-# Vscodeにインストールその３
+# Visual Studio Codeにインストールその３
 
 　
 
