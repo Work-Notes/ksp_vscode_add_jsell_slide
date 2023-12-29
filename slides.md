@@ -16,12 +16,6 @@ layout: default
 transition: slide-left
 ---
 
-
----
-layout: default
-transition: slide-left
----
-
 # インストール用ファイルのダウンロード
 
 本環境はVisual Studio Codeの拡張機能です。
