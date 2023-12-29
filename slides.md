@@ -16,10 +16,20 @@ layout: default
 transition: slide-left
 ---
 
+
+---
+layout: default
+transition: slide-left
+---
+
 # インストール用ファイルのダウンロード
 
-- 下記のリンクからJava研修用ツールのオフラインインストール用ファイルをダウンロードします。
-  - https://ksp-slide-documents.github.io/ksp_vscode_add_jsell_slide/JavaSelectedCodeExecutor.vsix
+本環境はVisual Studio Codeの拡張機能です。
+
+下記のリンクから拡張機能ファイル(vsix)をダウンロードします。
+
+https://ksp-slide-documents.github.io/ksp_vscode_add_jsell_slide/JavaSelectedCodeExecutor.vsix
+
 <img class="h-70" src="/Vscode-Download.png">
 
 ---
@@ -27,21 +37,52 @@ layout: default
 transition: slide-left
 ---
 
-# Vscodeにインストール
+# Vscodeにインストールその１
 
-<ul>
-  <li>VsCode を起動して下記の手順でクリックしていき、先ほどダウンロードしたファイルを選択 
-    <ul style="float: left;">
-      <li>a. 拡張機能アイコン</li>
-      <li>b. その他アイコン</li>
-      <li>c. VSIX からのインストール… </li>
-	  <li>d. ダウンロードしたファイルを選択 </li>
-    </ul>
-    <div style="float: right;">
-	  <img class="h-78" src="/Vscode-Extensions.png">
-    </div>
+ダウンロードができたらVisual Studio Codeを起動して拡張機能ファイル(vsix)のインストールを行います。
 
-  </li>
-</ul>
+まずは拡張機能アイコンをクリックして、拡張機能管理の画面を表示します。
 
+<img class="h-70" src="/Vscode-OpenExtensionsWindow.png">
+
+---
+layout: default
+transition: slide-left
+---
+
+# Vscodeにインストールその２
+
+拡張機能管理の画面が表示できたら、ビューとその他アクションのアイコンをクリックして、
+
+表示されたメニューからVSIXからのインストールをクリックします。
+
+<img class="h-70" src="/Vscode-OpenInstallMenu.png">
+
+---
+layout: default
+transition: slide-left
+---
+
+# Vscodeにインストールその３
+
+ファイル選択のウィンドウが表示されるので、
+
+先ほどダウンロードした拡張機能ファイル(vsix)を選択して、インストールボタンをクリックします。
+
+<img class="h-70" src="Vscode-InstallVSIX.png">
+
+---
+layout: default
+transition: slide-left
+---
+
+# インストール完了
+
+インストールが完了したら、
+
+拡張機能管理の画面上に「Java Selected Code Executor」が追加されます。
+
+お疲れ様でした。
+
+<img class="h-70" src="Vscode-Complete.png">
 
