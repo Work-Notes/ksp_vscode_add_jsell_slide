@@ -24,7 +24,7 @@ transition: slide-left
 
 下記のリンクから拡張機能ファイルをダウンロードします。
 
-https://ksp-slide-documents.github.io/ksp_vscode_add_jsell_slide/JavaSelectedCodeExecutor.vsix
+https://github.com/ksp-kitam/JavaCodeSelectionRunner/releases/download/v1.0.0/JavaCodeSelectionRunner-1.0.0.vsix
 
 <img class="h-70" src="/Vscode-Download.png">
 
