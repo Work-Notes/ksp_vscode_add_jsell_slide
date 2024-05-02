@@ -1,12 +1,12 @@
 {
-  "name": "ksp_vscode_add_jsell_slide",
+  "name": "JavaCodeSelectionRunner_install_slide",
   "type": "module",
   "private": true,
   "scripts": {
     "build": "slidev build",
     "dev": "slidev --open",
     "export": "slidev export",
-    "build_github": "slidev build --base /ksp_vscode_add_jsell_slide"
+    "build_github": "slidev build --base /JavaCodeSelectionRunner_install_slide"
   },
   "dependencies": {
     "@slidev/cli": "^0.43.12",
