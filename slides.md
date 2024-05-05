@@ -18,7 +18,6 @@ transition: slide-left
 
 # 拡張機能ファイルのダウンロード
 
-　
 
 本環境はVisual Studio Codeの拡張機能です。
 
@@ -79,8 +78,6 @@ transition: slide-left
 　
 
 インストールが完了したら、拡張機能管理の画面上に追加されます。
-
-お疲れ様でした。
 
 <img class="h-70" src="/Vscode-Complete.png">
 
